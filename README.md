@@ -10,6 +10,8 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 
 ## Checklist:
 
+
+
 ### Inicio
 - [ ] Criar conta no [github](https://github.com/).
 - [ ] Criar conta no [linkedin](https://www.linkedin.com/)
@@ -27,6 +29,9 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 - [ ] Postar 1 vez por semana na rede algum conteudo.(Quem não é visto, não e lembrado)
 - [ ] Ser cara de pau e pedir emprego sempre que possivel.
 - [ ] Cuidado com polémicas, visibilidade negativa pode te atrapalhar.
+
+### Recomendação geral
+- [ ] Aprenda inglês
 
 ## Contribuiçoes
 * Todas contribuições são bem-vindas.
