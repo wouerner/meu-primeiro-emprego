@@ -18,9 +18,12 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 
 ### Recomendações Github:
 - [ ] Criar um site no [GitHub Pages](https://pages.github.com/)
+- [ ] Personalizar sua conta no github. 
+  - [ ] [Videos com passo a passo](https://www.youtube.com/watch?v=TsaLQAetPLU)
 - [ ] Fazer um commit pelo menos uma vez por semana (Recorrente).
 - [ ] Fazer readme em todos os seus projetos.
 - [ ] Tentar fazer commit mais profissionais possivel.
+  - [ ] Recomendação: https://www.youtube.com/watch?v=OJqUWvmf4gg
 
 ### Recomendações Linekdin:
 - [ ] Completar todo o cadastro.
@@ -30,8 +33,9 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 - [ ] Ser cara de pau e pedir emprego sempre que possivel.
 - [ ] Cuidado com polémicas, visibilidade negativa pode te atrapalhar.
 
-### Recomendação geral
-- [ ] Aprenda inglês
+### Recomendação Inglês:
+- [ ] Aprimore a leitura inglês, a maior parte das docs de framework estão em inglês.
+
 
 ## Contribuiçoes
 * Todas contribuições são bem-vindas.
