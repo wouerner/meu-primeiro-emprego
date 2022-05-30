@@ -37,7 +37,10 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 - [ ] Aprimore a leitura inglês, a maior parte das docs de framework estão em inglês.
 
 
-## Contribuiçoes
+## Recomendação plataforma de estudos:
+- [ ] https://exercism.org
+
+## Contribuições
 * Todas contribuições são bem-vindas.
 * Foco nas pessoas que estão iniciando a carreira.
 * Lembre que esse projeto está em construção continua.
