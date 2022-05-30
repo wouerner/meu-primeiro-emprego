@@ -25,7 +25,7 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 - [ ] Tentar fazer commit mais profissionais possivel.
   - [ ] Recomendação: https://www.youtube.com/watch?v=OJqUWvmf4gg
 
-### Recomendações Linekdin:
+### Recomendações Linkdin:
 - [ ] Completar todo o cadastro.
 - [ ] Criar headline sinalizando sua pretenção.
 - [ ] Adicionar todos os profissionais de RH que encontrar.
