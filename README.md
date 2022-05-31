@@ -39,6 +39,7 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 
 ## Recomendação plataforma de estudos:
 - [ ] https://exercism.org
+- [ ] https://hackr.io/blog/cpp-course
 
 ## Contribuições
 * Todas contribuições são bem-vindas.
